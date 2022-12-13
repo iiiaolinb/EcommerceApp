@@ -54,7 +54,7 @@
     <resources>
         <image name="Ellipse" width="132" height="132"/>
         <namedColor name="DarkBlue">
-            <color red="0.0040000001899898052" green="0.0" blue="0.20800000429153442" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+            <color red="0.0039215686274509803" green="0.0" blue="0.20784313725490194" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </namedColor>
     </resources>
 </document>
