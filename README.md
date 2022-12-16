@@ -5,10 +5,15 @@ An application for an online store. Part of the application is working. The appl
 **Stack:**
 
 *- MVVM*
+
 *- Router*
+
 *- Custom transitions*
+
 *- Combine*
+
 *- REST API*
+
 *- GCD*
 
 
