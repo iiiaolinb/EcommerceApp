@@ -4,17 +4,17 @@ An application for an online store. Part of the application is working. The appl
 
 **Stack:**
 
-*- MVVM*
+* - MVVM
 
-*- Router*
+* - Router
 
-*- Custom transitions*
+* - Custom transitions
 
-*- Combine*
+* - Combine
 
-*- REST API*
+* - REST API
 
-*- GCD*
+* - GCD
 
 
 ![Снимок экрана 2022-12-13 в 19 20 43](https://user-images.githubusercontent.com/72195521/208053978-ca447266-0857-4a2e-81c4-4d4784a02205.png)
